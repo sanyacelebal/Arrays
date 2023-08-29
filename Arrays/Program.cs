@@ -57,7 +57,7 @@ namespace Arrays
             
 
 
-             int[,] n = { { 1, 4, 2 }, { 3, 6, 8 }};
+          /*   int[,] n = { { 1, 4, 2 }, { 3, 6, 8 }};
                for (int i = 0; i < 2; i++)
                {
                    for (int j = 0; j < 3; j++)
@@ -67,7 +67,7 @@ namespace Arrays
                    }
                }  
 
-
+            */
 
             /*  int n = 5;
               for (int i = 1; i <= n; i++)
@@ -109,9 +109,9 @@ namespace Arrays
                }
               */
 
-
-
-            
+            //hello
+           
+            //hi
         }
 
         }
